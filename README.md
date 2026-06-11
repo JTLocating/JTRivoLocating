@@ -1,6 +1,6 @@
 # SiteForge Starter
 
-Static website export with 4 page(s).
+Static website export with 1 page(s).
 
 ## GitHub Pages
 
