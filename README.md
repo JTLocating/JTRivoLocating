@@ -1,4 +1,4 @@
-# SiteForge Starter
+# Built with SiteForge by etejev.
 
 Static website export with 1 page(s).
 
